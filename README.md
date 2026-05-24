@@ -6,6 +6,7 @@ A custom standalone **Magic** category tower for *Bloons TD 6* that shoots focus
 * **Custom 3D Model:** Includes a unique custom model created in Blender.
 * **Sun Avatar Attacks:** Fires powerful, high-pierce light beams right out of the gate.
 * **Stable v1.0.0 Base:** 100% functional standalone tower with zero upgrade path bugs.
+* **Updated to v1.1.0** Adds 3 new upgrades for each path, triple the fun!
 
 ## 💾 Installation
 1. Make sure you have **MelonLoader** and the **BTD6 Mod Helper** installed.
