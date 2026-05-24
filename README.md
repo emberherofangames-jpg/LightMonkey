@@ -15,4 +15,4 @@ A custom standalone **Magic** category tower for *Bloons TD 6* that shoots focus
 5. Launch the game and enjoy!
 
 ---
-*Created by YourNickname*
+*Created by FrostHero*
