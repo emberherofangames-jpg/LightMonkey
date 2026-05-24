@@ -11,8 +11,10 @@ A custom standalone **Magic** category tower for *Bloons TD 6* that shoots focus
 1. Make sure you have **MelonLoader** and the **BTD6 Mod Helper** installed.
 2. Go to the **Releases** section on the right side of this page.
 3. Download the `LightMonkey.dll` file.
-4. Drop the `.dll` file directly into your game's `Mods` folder.
-5. Launch the game and enjoy!
+4. Download the 'LightMonkeyBundle.bundle' file.
+5. Drop the `.dll` file directly into your game's `Mods` folder.
+6. Drop the '.bundle' file directly into your game's 'Mods' folder.
+7. Launch the game and enjoy!
 
 ---
 *Created by FrostHero*
